@@ -40,6 +40,9 @@ dependencies:
   cached_network_image: any
   webview_flutter: any
   permission_handler: ^10.1.0
+  firebase_auth: ^4.2.1
+  firebase_core: ^2.4.0
+  google_sign_in: ^5.4.2
 
 dev_dependencies:
   flutter_test:

@@ -37,12 +37,12 @@ class _navigationScreenState extends State<navigationScreen> {
 
             BottomNavigationBarItem(
               icon: Icon(Icons.play_circle),
-              label: "Home",
+              label: "Video",
             ),
 
             BottomNavigationBarItem(
               icon: Icon(Icons.person_sharp),
-              label: "Home",
+              label: "Profile",
             ),
           ],
         ),
